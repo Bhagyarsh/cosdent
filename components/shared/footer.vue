@@ -14,7 +14,7 @@
           <ul class="space-y-2">
             <li><a href="/" class="hover:text-gray-300">Home</a></li>
             <li><a href="/#about-us" class="hover:text-gray-300">About Us</a></li>
-            <li><a href="/services" class="hover:text-gray-300">Services</a></li>
+            <li><a href="/#services" class="hover:text-gray-300">Services</a></li>
             <li><a href="/#contact-us" class="hover:text-gray-300">Contact</a></li>
           </ul>
         </div>
