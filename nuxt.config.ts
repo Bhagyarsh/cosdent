@@ -11,5 +11,8 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   app: {
     baseURL: '/', // Replace <REPO_NAME> with your GitHub repo name
-  }
+  },
+
+    css: ['~/assets/font/flaticon_mycollection.css', '~/assets/css/app.css']
+
 })

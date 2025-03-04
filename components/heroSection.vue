@@ -2,7 +2,7 @@
     <!-- Hero Section with a background image -->
     <section
       class="relative h-screen bg-cover bg-center"
-      style="background-image: url('landing.webp')"
+      style="background-image: url('images/heroImage.jpeg')"
     >
       <!-- Overlay for a darker effect -->
       <div class="absolute inset-0 bg-black opacity-50"></div>

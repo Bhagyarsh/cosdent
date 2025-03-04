@@ -1,5 +1,5 @@
 <template>
-    <section id="about-us" class="bg-gray-100 py-16 px-6">
+    <section id="about-us" class="bg-blue-50 py-16 px-6">
       <div class="max-w-6xl mx-auto text-center">
         <h2 class="text-3xl md:text-4xl font-bold text-gray-800 mb-6">
           About Our Dental Clinic

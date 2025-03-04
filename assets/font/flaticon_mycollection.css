@@ -1,0 +1,113 @@
+/*!
+*    ______ _       _   _
+*    |  ____| |     | | (_)
+*    | |__  | | __ _| |_ _  ___ ___  _ __
+*    |  __| | |/ _` | __| |/ __/ _ \| '_ \
+*    | |    | | (_| | |_| | (_| (_) | | | |
+*    |_|    |_|\__,_|\__|_|\___\___/|_| |_|
+*
+*         https://www.flaticon.com
+*/
+
+@font-face {
+    font-family: "flaticon_mycollection";
+    src: url("./flaticon_mycollection.woff2?80ccf6537df43a04be69354b93d25e22") format("woff2"),
+url("./flaticon_mycollection.woff?80ccf6537df43a04be69354b93d25e22") format("woff"),
+url("./flaticon_mycollection.eot?80ccf6537df43a04be69354b93d25e22#iefix") format("embedded-opentype"),
+url("./flaticon_mycollection.ttf?80ccf6537df43a04be69354b93d25e22") format("truetype"),
+url("./flaticon_mycollection.svg?80ccf6537df43a04be69354b93d25e22#flaticon_mycollection") format("svg")
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon_mycollection !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-dentist-chair:before {
+    content: "\f101";
+}
+.flaticon-dental-record:before {
+    content: "\f102";
+}
+.flaticon-tooth:before {
+    content: "\f103";
+}
+.flaticon-dentist:before {
+    content: "\f104";
+}
+.flaticon-patient:before {
+    content: "\f105";
+}
+.flaticon-dental-veneer:before {
+    content: "\f106";
+}
+.flaticon-clinic:before {
+    content: "\f107";
+}
+.flaticon-online-appointment:before {
+    content: "\f108";
+}
+.flaticon-dentistry:before {
+    content: "\f109";
+}
+.flaticon-dental-report:before {
+    content: "\f10a";
+}
+.flaticon-dental-insurance:before {
+    content: "\f10b";
+}
+.flaticon-dentist-1:before {
+    content: "\f10c";
+}
+.flaticon-dental-services:before {
+    content: "\f10d";
+}
+.flaticon-dentist-3:before {
+    content: "\f10e";
+}
+.flaticon-appointment-1:before {
+    content: "\f10f";
+}
+.flaticon-clean-tooth:before {
+    content: "\f110";
+}
+.flaticon-anesthesia:before {
+    content: "\f111";
+}
+.flaticon-location:before {
+    content: "\f112";
+}
+.flaticon-contact-information:before {
+    content: "\f113";
+}
+.flaticon-dental-implant:before {
+    content: "\f114";
+}
+.flaticon-teeth-operation:before {
+    content: "\f115";
+}
+.flaticon-dental-implant-1:before {
+    content: "\f116";
+}
+.flaticon-stars:before {
+    content: "\f117";
+}
+.flaticon-sparkle-1:before {
+    content: "\f118";
+}
+.flaticon-braces:before {
+    content: "\f119";
+}
+.flaticon-aligner:before {
+    content: "\f11a";
+}
+.flaticon-up-right-arrow:before {
+    content: "\f11b";
+}
+

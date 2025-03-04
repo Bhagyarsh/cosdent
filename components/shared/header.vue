@@ -50,10 +50,10 @@
   
         <!-- Right: Book Appointment Button (hidden on small screens) -->
         <div class="flex-1 text-right hidden md:block">
-          <button class="bg-blue-500 text-white px-10 py-3npx nuxi module add icon
+          <button class="bg-blue-500 text-white px-10 py-3 nuxi module add icon
             hover:bg-blue-600 rounded-full">
             Book Appointment 
-            <Icon name="uil:github" style="color: black" />
+            <i class="flaticon-up-right-arrow"></i>
           </button>
         </div>
       </div>

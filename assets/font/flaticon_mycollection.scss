@@ -1,0 +1,133 @@
+$flaticon_mycollection-font: "flaticon_mycollection";
+
+@font-face {
+    font-family: $flaticon_mycollection-font;
+    src: url("./flaticon_mycollection.woff2?80ccf6537df43a04be69354b93d25e22") format("woff2"),
+url("./flaticon_mycollection.woff?80ccf6537df43a04be69354b93d25e22") format("woff"),
+url("./flaticon_mycollection.eot?80ccf6537df43a04be69354b93d25e22#iefix") format("embedded-opentype"),
+url("./flaticon_mycollection.ttf?80ccf6537df43a04be69354b93d25e22") format("truetype"),
+url("./flaticon_mycollection.svg?80ccf6537df43a04be69354b93d25e22#flaticon_mycollection") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon_mycollection !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+$flaticon_mycollection-map: (
+    "dentist-chair": "\f101",
+    "dental-record": "\f102",
+    "tooth": "\f103",
+    "dentist": "\f104",
+    "patient": "\f105",
+    "dental-veneer": "\f106",
+    "clinic": "\f107",
+    "online-appointment": "\f108",
+    "dentistry": "\f109",
+    "dental-report": "\f10a",
+    "dental-insurance": "\f10b",
+    "dentist-1": "\f10c",
+    "dental-services": "\f10d",
+    "dentist-3": "\f10e",
+    "appointment-1": "\f10f",
+    "clean-tooth": "\f110",
+    "anesthesia": "\f111",
+    "location": "\f112",
+    "contact-information": "\f113",
+    "dental-implant": "\f114",
+    "teeth-operation": "\f115",
+    "dental-implant-1": "\f116",
+    "stars": "\f117",
+    "sparkle-1": "\f118",
+    "braces": "\f119",
+    "aligner": "\f11a",
+    "up-right-arrow": "\f11b",
+);
+
+.flaticon-dentist-chair:before {
+    content: map-get($flaticon_mycollection-map, "dentist-chair");
+}
+.flaticon-dental-record:before {
+    content: map-get($flaticon_mycollection-map, "dental-record");
+}
+.flaticon-tooth:before {
+    content: map-get($flaticon_mycollection-map, "tooth");
+}
+.flaticon-dentist:before {
+    content: map-get($flaticon_mycollection-map, "dentist");
+}
+.flaticon-patient:before {
+    content: map-get($flaticon_mycollection-map, "patient");
+}
+.flaticon-dental-veneer:before {
+    content: map-get($flaticon_mycollection-map, "dental-veneer");
+}
+.flaticon-clinic:before {
+    content: map-get($flaticon_mycollection-map, "clinic");
+}
+.flaticon-online-appointment:before {
+    content: map-get($flaticon_mycollection-map, "online-appointment");
+}
+.flaticon-dentistry:before {
+    content: map-get($flaticon_mycollection-map, "dentistry");
+}
+.flaticon-dental-report:before {
+    content: map-get($flaticon_mycollection-map, "dental-report");
+}
+.flaticon-dental-insurance:before {
+    content: map-get($flaticon_mycollection-map, "dental-insurance");
+}
+.flaticon-dentist-1:before {
+    content: map-get($flaticon_mycollection-map, "dentist-1");
+}
+.flaticon-dental-services:before {
+    content: map-get($flaticon_mycollection-map, "dental-services");
+}
+.flaticon-dentist-3:before {
+    content: map-get($flaticon_mycollection-map, "dentist-3");
+}
+.flaticon-appointment-1:before {
+    content: map-get($flaticon_mycollection-map, "appointment-1");
+}
+.flaticon-clean-tooth:before {
+    content: map-get($flaticon_mycollection-map, "clean-tooth");
+}
+.flaticon-anesthesia:before {
+    content: map-get($flaticon_mycollection-map, "anesthesia");
+}
+.flaticon-location:before {
+    content: map-get($flaticon_mycollection-map, "location");
+}
+.flaticon-contact-information:before {
+    content: map-get($flaticon_mycollection-map, "contact-information");
+}
+.flaticon-dental-implant:before {
+    content: map-get($flaticon_mycollection-map, "dental-implant");
+}
+.flaticon-teeth-operation:before {
+    content: map-get($flaticon_mycollection-map, "teeth-operation");
+}
+.flaticon-dental-implant-1:before {
+    content: map-get($flaticon_mycollection-map, "dental-implant-1");
+}
+.flaticon-stars:before {
+    content: map-get($flaticon_mycollection-map, "stars");
+}
+.flaticon-sparkle-1:before {
+    content: map-get($flaticon_mycollection-map, "sparkle-1");
+}
+.flaticon-braces:before {
+    content: map-get($flaticon_mycollection-map, "braces");
+}
+.flaticon-aligner:before {
+    content: map-get($flaticon_mycollection-map, "aligner");
+}
+.flaticon-up-right-arrow:before {
+    content: map-get($flaticon_mycollection-map, "up-right-arrow");
+}
